@@ -30,7 +30,7 @@ public class City {
         this.cityName = cityName;
         this.techLevel = techLevel;
         this.resources = resources;
-        this.freshWaterPrice = configurePrice(30, 3, 0);
+        this.freshWaterPrice = configurePrice(20, 3, 0);
         this.scarfPrice = configurePrice(250, 10, 0);
         this.berriesPrice = configurePrice(100, 5, 1);
         this.nuggetsPrice = configurePrice(350, 20, 2);
